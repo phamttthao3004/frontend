@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+    font-family: 'OpenSansRegular'; 
+    src: url('font/OpenSansRegular/OpenSansRegular.eot');
+    src: url('font/OpenSansRegular/OpenSansRegular.eot') format('embedded-opentype'),
+         url('font/OpenSansRegular/OpenSansRegular.woff2') format('woff2'),
+         url('font/OpenSansRegular/OpenSansRegular.woff') format('woff'),
+         url('font/OpenSansRegular/OpenSansRegular.ttf') format('truetype'),
+         url('font/OpenSansRegular/OpenSansRegular.svg#OpenSansRegular') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansBold'; 
+    src: url('font/OpenSansBold/OpenSansBold.eot');
+    src: url('font/OpenSansBold/OpenSansBold.eot') format('embedded-opentype'),
+         url('font/OpenSansBold/OpenSansBold.woff2') format('woff2'),
+         url('font/OpenSansBold/OpenSansBold.woff') format('woff'),
+         url('font/OpenSansBold/OpenSansBold.ttf') format('truetype'),
+         url('font/OpenSansBold/OpenSansBold.svg#OpenSansBold') format('svg');
+}
+@font-face {
+    font-family: 'OpenSansLight'; 
+    src: url('font/OpenSansLight/OpenSansLight.eot');
+    src: url('font/OpenSansLight/OpenSansLight.eot') format('embedded-opentype'),
+         url('font/OpenSansLight/OpenSansLight.woff2') format('woff2'),
+         url('font/OpenSansLight/OpenSansLight.woff') format('woff'),
+         url('font/OpenSansLight/OpenSansLight.ttf') format('truetype'),
+         url('font/OpenSansLight/OpenSansLight.svg#OpenSansLight') format('svg');
+}
